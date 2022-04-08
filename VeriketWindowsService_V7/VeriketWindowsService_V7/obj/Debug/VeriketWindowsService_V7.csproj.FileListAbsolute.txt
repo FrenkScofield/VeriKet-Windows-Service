@@ -1,0 +1,9 @@
+C:\Users\kam_a\Source\Repos\VeriketWindowsService_V7\VeriketWindowsService_V7\bin\Debug\VeriketWindowsService_V7.exe.config
+C:\Users\kam_a\Source\Repos\VeriketWindowsService_V7\VeriketWindowsService_V7\bin\Debug\VeriketWindowsService_V7.exe
+C:\Users\kam_a\Source\Repos\VeriketWindowsService_V7\VeriketWindowsService_V7\bin\Debug\VeriketWindowsService_V7.pdb
+C:\Users\kam_a\Source\Repos\VeriketWindowsService_V7\VeriketWindowsService_V7\obj\Debug\VeriketWindowsService_V7.csproj.AssemblyReference.cache
+C:\Users\kam_a\Source\Repos\VeriketWindowsService_V7\VeriketWindowsService_V7\obj\Debug\VeriketWindowsService_V7.ProjectInstaller.resources
+C:\Users\kam_a\Source\Repos\VeriketWindowsService_V7\VeriketWindowsService_V7\obj\Debug\VeriketWindowsService_V7.csproj.GenerateResource.cache
+C:\Users\kam_a\Source\Repos\VeriketWindowsService_V7\VeriketWindowsService_V7\obj\Debug\VeriketWindowsService_V7.csproj.CoreCompileInputs.cache
+C:\Users\kam_a\Source\Repos\VeriketWindowsService_V7\VeriketWindowsService_V7\obj\Debug\VeriketWindowsService_V7.exe
+C:\Users\kam_a\Source\Repos\VeriketWindowsService_V7\VeriketWindowsService_V7\obj\Debug\VeriketWindowsService_V7.pdb
